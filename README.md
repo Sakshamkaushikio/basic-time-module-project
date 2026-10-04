@@ -21,6 +21,8 @@ This project was created to practice basic Python concepts, including:
 * The built-in **`time` module**
 * `strftime()` for getting the current time
 * f-strings for formatting output
+* Used string slicing to extract hour
+* And, typecasting to convert the extracted hour (string) into an integer
 
 ## Example
 
